@@ -3,7 +3,7 @@ import java.math.BigInteger;
 import java.text.DecimalFormat;
 import java.math.BigDecimal;
 
-public class Main {
+public class Sequence{
     public static void main(String[] args) {
 
         // initialize input scanner

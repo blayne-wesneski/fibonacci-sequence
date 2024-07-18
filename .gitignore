@@ -1,0 +1,5 @@
+#ignored directories
+.vscode
+
+# ignored file extenstions
+*.exe
